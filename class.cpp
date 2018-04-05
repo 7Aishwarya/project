@@ -15,7 +15,7 @@ void sum(double x, double y)
 {
 cout<<x<<"  "<<y<<"\n";
 }
-};
+};        //comment 
 int main()
 {
 abc a1;
